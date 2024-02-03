@@ -1,0 +1,39 @@
+{
+    "name": "users.json",
+    "version": "0.0.1",
+    "author": "hobbys@naver.com",
+    "items": [
+        {
+            "id": "42teakvmnv86r19",
+            "gender": "woman",
+            "face": 2,
+            "name": "하연주",
+            "job": "웹 디자이너",
+            "email": "hayounju@dev.io"
+        },
+        {
+            "id": "ctyys0rk89zqupi",
+            "gender": "man",
+            "face": 2,
+            "name": "박선호",
+            "job": "웹 개발자",
+            "email": "parksh@dev.io"
+        },
+        {
+            "id": "38xwwo12xsj0su6",
+            "gender": "woman",
+            "face": 5,
+            "name": "최하영",
+            "job": "웹 기획자",
+            "email": "choi-ha@dev.io"
+        },
+        {
+            "id": "08c4u1vo7xv1qpu",
+            "gender": "woman",
+            "face": 5,
+            "name": "김유미",
+            "job": "대표 이사",
+            "email": "choi-ha@dev.io"
+        }
+    ]
+}
