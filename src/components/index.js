@@ -5,3 +5,4 @@ export { default as ProfileUser } from "./ProfileUser/ProfileUser";
 export { default as ProductLists } from "./ProductLists/ProductLists";
 export { default as Productheader } from "./Productheader/Productheader";
 export { default as NavTop } from "./NavTop/NavTop";
+export { default as TabMenu } from "./TabMenu/TabMenu";

@@ -1,4 +1,4 @@
-import { NavTop, ProductLists, Productheader } from "./components";
+import { NavTop, ProductLists, Productheader, TabMenu } from "./components";
 import "./App.css";
 
 function App() {
@@ -6,6 +6,7 @@ function App() {
     <>
       <Productheader />
       <NavTop></NavTop>
+      <TabMenu></TabMenu>
       <ProductLists></ProductLists>
     </>
   );
